@@ -6,7 +6,7 @@
 ## GPT4V_Captioner
 
 A powerful script that allows you to caption a single image or batch process any number of images within a directory. This script utilizes OpenAI's GPT-4 model to generate precise tags for images to enhance the CLIP model's understanding.
-![zzz - Copy](https://github.com/user-attachments/assets/bea74431-a70d-4312-98a9-44c7f83238fa)
+
 
 ## Features
 - **User Friendly**: You can put or copy paste the Script anywhere you like where you want to caption the images.
@@ -52,9 +52,6 @@ pip install wordcloud matplotlib
 ```sh
 pip install colorama openai pillow wordcloud matplotlib
 ```
-## Banner Example
-![word_banner](https://github.com/user-attachments/assets/2eb1e316-279d-4325-8449-9d43c1593801)
-
 
 ## Usage
 
@@ -79,8 +76,7 @@ pip install colorama openai pillow wordcloud matplotlib
 - `describe_image(image_path, api_key)`: Sends the image to OpenAI's GPT-4 model for captioning.
 
 ---
-## Example
-![333](https://github.com/user-attachments/assets/9ce8983a-bc72-4da2-9f0e-b3ab17807a31)
+
 
 ## License
 
