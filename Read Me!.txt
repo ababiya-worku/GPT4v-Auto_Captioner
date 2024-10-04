@@ -1,0 +1,14 @@
+Before running the GPT4V-Captioner.bat
+
+Install this in your Windows command prompt app, otherwise the script won't work!
+ 
+
+OPEN CMD & COPY PASTE THE FOLLOWING AND HIT ENTER
+
+1, pip install openai requests
+
+2, pip install openai requests pillow
+
+3, pip install --upgrade openai
+
+4, pip install wordcloud matplotlib
