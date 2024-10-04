@@ -19,7 +19,7 @@ A powerful script that allows you to caption a single image or batch process any
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/ababiyaworku/GPT4V_Captioner.git
+    git clone https://github.com/ababiya-worku/GPT4v-Auto_Captioner.git
     
     cd GPT4V_Captioner
     ```
